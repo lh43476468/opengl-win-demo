@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    {
+        "name": "opengl debug",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/Debug/demo.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "console": "externalTerminal"
+    }
+    ]
+}
